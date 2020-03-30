@@ -1,3 +1,4 @@
+# coding: utf8
 
 countries = [
     ('AF', u'Afghanistan'),
