@@ -7,7 +7,6 @@ Miscellaneous useful resources.
 
 g   
 g  
-g   
 g  
 g   
 g  
