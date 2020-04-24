@@ -13,7 +13,7 @@ ISO 3166 country codes formatted for python.
 ISO 639-1 language codes formatted for python.
 
 ## English most common words
-Zwei Listen der gebräuchlichsten englischen 10K- und 20K-Wörter.
+Two lists of the most common English 10K and 20K words.
 
 ## English dictionary of onomatopoeia
 A English dictionary of onomatopoeia (sound words). 
