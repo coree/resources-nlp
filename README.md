@@ -1,4 +1,4 @@
-# Awesome NLP Resources
+# Resources for NLP 
 Various useful resources related to Natural Language Processing (NLP).
 
  - [Country codes](#country-codes)
