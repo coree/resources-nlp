@@ -3,11 +3,11 @@
 # Awesome NLP Resources
 Various useful resources, mainly related to NLP.
 
-	- [Country codes](#countrycodes)
-	- [Language codes](#languagecodes)
-	- [English most common words](#englishmostcommonwords)
-	- [English dictionary of onomatopoeia](#englishdictionaryofonomatopoeia) 
-
+ - [Country codes](#country-codes)
+ - [Language codes](#language-codes)
+ - [English most common words](#english-most-common-words)
+ - [English dictionary of onomatopoeia](#english-dictionary-of-onomatopoeia) 
+ 
 ## Country codes 
 ISO 3166 country codes formatted for python.  
 
